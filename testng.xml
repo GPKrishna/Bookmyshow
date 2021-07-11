@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/QM787YJ/Downloads/Project/TECKAUTOMATION/Bookmyshow">
+        <parameter name="City" value="NCR"/>
+        <classes>
+            <class name="BookMyShow"/>
+            <class name="Reports"/>
+        </classes>
+    </test>
+</suite>
+
